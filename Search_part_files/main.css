@@ -2249,7 +2249,7 @@ ul.footer-nav-menu li:not(:last-child):after {
 ------------------------*/
 .ttm-page-title-row {
     /*background: url(https://via.placeholder.com/1920x800?text=1920x800+pagetitle-bg.jpg);*/
-    background: url(../images/ttm-pagetitle-bg.jpg);
+    background: url(ttm-pagetitle-bg.jpg);
     width: 100%;
     background-size: cover;
     background-position: center;
